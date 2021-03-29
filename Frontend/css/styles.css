@@ -1,0 +1,17 @@
+:root{
+
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; /* 1rem equivale a 10px */
+  }
+
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+/* Globales*/ 
+body{
+    
+} 
